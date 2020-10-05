@@ -1,6 +1,6 @@
 ### Hi there, I'm David - aka F0rce 👋
 
-## I'm a developer from Germany 🇩🇪
+## I'm a developer from Germany
 - 🌐 I'm currently doing an apprenticeship as an application developer at [Lobster GmbH][lobster]
 - 📚 I’m currently learning Swift
 - ⚡️ Fun fact: I love Apple
