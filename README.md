@@ -3,7 +3,7 @@
 ## I'm a developer from Germany 🇩🇪
 - 🌐 I am currently doing an apprenticeship as an application developer at [Lobster GmbH][lobster]
 - 📚 I’m currently learning Swift
-- ⚡️ Fun fact: I love Apple 
+- ⚡️ Fun fact: I love Apple
 
 ### 📞 Connect with me:
 
