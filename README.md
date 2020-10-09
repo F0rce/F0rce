@@ -5,17 +5,20 @@
 - 📚 I’m currently learning Swift
 - ⚡️ Fun fact: I love Apple
 
+
 ### 📞 Connect with me:
 
 [<img align="left" alt="F0rce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="F0rce | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />][email]
 <br>
 
+
 ### 🛠 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F0rce&show_icons=true&theme=dark&count_private=true)
+![F0rce GitHub stats](https://github-readme-stats.vercel.app/api?username=f0rce&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800&include_all_commits=true)
+
 
 ### ❤ Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F0rce&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0rce&layout=compact&cache_seconds=1800)
 
 
 [linkedin]: https://linkedin.com/in/daviddodlek
