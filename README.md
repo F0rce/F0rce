@@ -2,7 +2,7 @@
 
 ## I'm a developer from Germany
 - 🌐 I'm currently doing an apprenticeship as an application developer at [Lobster GmbH][lobster]
-- 📚 I’m currently learning Swift
+- 📚 I’m currently learning Solidity (Blockchain Progamming)
 - ⚡️ Fun fact: I love Apple
 
 
