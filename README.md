@@ -2,8 +2,7 @@
 <h3 align="center">22 y/o Full Stack Developer from Germany ―</h3>
 </br></br>
 
-- 🔭 Full Stack Developer at [Lobster GmbH](https://lobster-world.com)
-- 💬 Ask me everything about **Vaadin Add-on creation**
+- 🔭 Full Stack Developer at [Franz Mensch GmbH](https://www.franz-mensch.de/)
 - 📫 How to reach me **david@dodlek.com**
 
 <h3 align="left">Connect with me:</h3>
