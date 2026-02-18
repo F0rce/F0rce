@@ -2,8 +2,8 @@
 <h3 align="center">23 y/o Full Stack Developer from Germany ―</h3>
 </br></br>
 
-- 🔭 Full Stack Developer at [Franz Mensch GmbH](https://www.franz-mensch.de/)
-- 📫 How to reach me **david@dodlek.com**
+- 🔭 Senior Full Stack Developer at [Adornis Ventures GmbH](https://adornis.de)
+- 📫 How to reach me **hi@f0rce.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
